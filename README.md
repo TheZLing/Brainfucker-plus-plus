@@ -14,4 +14,4 @@ It it s great brainfuck interpreter.
 
 ## How is it achieved?
 
-Brainfucker++ has a C program,the program read a file with JSON, then join it to the interpreter。 Finally, use these files to interprete brainfuck derivatives.
+Brainfucker++ has a C program,the program read a file, then join it to the interpreter. Finally, use these files to interprete brainfuck derivatives.

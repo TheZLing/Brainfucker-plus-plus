@@ -8,6 +8,13 @@
 
 #include "src/main.h"
 
+/**
+ * @brief  The main
+ * @note   
+ * @param  argc: arg count
+ * @param  *argv[]: arg value
+ * @retval program ret
+ */
 int main(int argc, char *argv[]) {
     
     return 0;
