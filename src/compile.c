@@ -1,5 +1,5 @@
 #include "main.h"
 
-static FILE *script;
-
-int NextScript()
+int GetScripts(char *road) {
+    
+}
