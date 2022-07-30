@@ -9,7 +9,7 @@
 #include "src/main.h"
 
 /**
- * @brief  The main
+ * @brief  The main of program
  * @note   
  * @param  argc: arg count
  * @param  *argv[]: arg value
